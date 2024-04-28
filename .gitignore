@@ -1,0 +1,15 @@
+/venv
+/__pycache__
+/.ipynb_checkpoints
+
+# JetBrains IDE
+.idea/
+/.idea
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
